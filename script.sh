@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # In order to succesfully execute this shell script the shell script should be run on a RUG computer through linux bash.
+# Zless is the general command to use the tool on Twitter data.
 # More explanation about the commands is available in the research paper in the github.
 
 
