@@ -1,0 +1,4 @@
+Amount of tweets in the Randstad mentioning a political left party: 		12323
+Amount of tweets in the Randstad mentioning a political right party: 		13652 
+Amount of tweets outside the Randstad mentioning a political left party: 	37610 
+Amount of tweets outside the Randstad mentioning a political right party: 	45054 
